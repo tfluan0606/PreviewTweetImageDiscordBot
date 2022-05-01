@@ -1,5 +1,5 @@
 # PreviewTweetImageDiscordBot
-Somehow discord can't show some of preview of tweets(most of them are NSFW).By replace the "twitter" in url with "fxtwitter", it works, but it's annoying.
+Somehow discord can't show some of preview of tweets(most of them are NSFW). By replace the "twitter" in url with "fxtwitter", it works, but it's annoying.
 This Bot written by discord.py can send the image link(and some video/gif link) in tweets to the text channel.
 This Bot also use tweepy, so if you want to use it, you need to get twitter api token.
 
